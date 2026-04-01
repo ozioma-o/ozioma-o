@@ -11,12 +11,12 @@ I'm a pharmacy graduate who discovered a passion for data analytics and made the
 ## 🧰 Tools & Skills
 
 ![SQL](https://img.shields.io/badge/SQL-SQL%20Server-blue?style=flat-square&logo=microsoft-sql-server)
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?style=flat-square&logo=powerbi)
-![Excel](https://img.shields.io/badge/Excel-Advanced-green?style=flat-square&logo=microsoft-excel)
+![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=flat-square&logo=powerbi)
+![Excel](https://img.shields.io/badge/Excel-green?style=flat-square&logo=microsoft-excel)
 
 | Category | Skills |
 |----------|--------|
-| **Databases** | SQL Server, T-SQL, SSMS |
+| **Databases** | SQL Server|
 | **Query Writing** | JOINs, Self JOINs, Aggregations, Date Functions, Subqueries |
 | **Visualisation** | Power BI Desktop, DAX, Power Query, Data Modelling |
 | **Spreadsheets** | Microsoft Excel, Pivot Tables, Charts |
