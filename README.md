@@ -53,4 +53,8 @@ An analysis of B2B product demand patterns to identify trends, high-performing p
 
 ➡️ [View Project](https://github.com/ozioma-o/b2b-product-demand-analysis)
 
+## 🚀 What's Next
+
+I am currently expanding my skills by building more projects across different domains and datasets. I am also considering learning Python to broaden my analytical toolkit and become a more well-rounded data analyst.
+
 
