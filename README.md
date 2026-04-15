@@ -53,6 +53,22 @@ An analysis of B2B product demand patterns to identify trends, high-performing p
 
 ➡️ [View Project](https://github.com/ozioma-o/b2b-product-demand-analysis)
 
+---
+
+### 📦 2. Inventory Management Analytics
+**Tools:** [ SQL Server]
+
+An analysis of inventory performance in a manufacturing and retail company
+
+**What I did:**
+-Wrote 14 SQL queries with clear comments explaining logic and assumptions
+-Identified the root causes of the business' problem
+-Identified products and categories that require immediate attention
+-Provided actionable recommendation for leadership
+
+➡️ [View Project](https://github.com/ozioma-o/inventory-management-analysis)
+
+
 ## 🚀 What's Next
 
 I am currently expanding my skills by building more projects across different domains and datasets. I am also considering learning Python to broaden my analytical toolkit and become a more well-rounded data analyst.
