@@ -25,22 +25,8 @@ I'm a pharmacy graduate who developed an interest in data analytics and have spe
 
 ## 📂 Featured Projects
 
-### 🏥 1. Hospital Analytics Dashboard
-**Tools:** SQL Server · Power BI · DAX · Power Query
 
-A comprehensive end-to-end analysis of a hospital dataset covering patient behavior, financial performance, and clinical operations.
-
-**What I did:**
-- Wrote 10+ complex SQL queries including self joins for 30-day readmission analysis, date functions for quarterly trends, and multi-table joins for financial reporting
-- Created DAX measures for Readmission Rate, Encounter Class Distribution, and Average Claim Cost
-- Built an interactive Power BI dashboard with 6 KPI cards and 7 dynamic visuals
-- Provided actionable recommendations for leadership
-    
-➡️ [View Project](https://github.com/ozioma-o/hospital-perfromance-analysis)
-
----
-
-### 📦 2. B2B Product Demand Analytics
+### 📦 1. B2B Product Demand Analytics
 **Tools:** [ Microsoft Excel · Power Pivot · DAX · Power Query]
 
 An analysis of B2B product demand patterns to identify trends, high-performing products, and demand insights.
@@ -54,8 +40,21 @@ An analysis of B2B product demand patterns to identify trends, high-performing p
 ➡️ [View Project](https://github.com/ozioma-o/b2b-product-demand-analysis)
 
 ---
+### 🏥 2. Hospital Performance Analytics 
+**Tools:** SQL Server · Power BI · DAX · Power Query
 
-### 📦 2. Inventory Management Analytics
+A comprehensive end-to-end analysis of a hospital dataset covering patient behavior, financial performance, and clinical operations.
+
+**What I did:**
+- Wrote 10+ complex SQL queries including self joins for 30-day readmission analysis, date functions for quarterly trends, and multi-table joins for financial reporting
+- Created DAX measures for Readmission Rate, Encounter Class Distribution, and Average Claim Cost
+- Built an interactive Power BI dashboard with 6 KPI cards and 7 dynamic visuals
+- Provided actionable recommendations for leadership
+    
+➡️ [View Project](https://github.com/ozioma-o/hospital-perfromance-analysis)
+
+---
+### 📦 3. Inventory Management Analytics
 **Tools:** [ SQL Server]
 
 An analysis of inventory performance in a manufacturing and retail company
