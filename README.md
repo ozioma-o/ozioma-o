@@ -34,7 +34,7 @@ An analysis of B2B product demand patterns to identify trends, high-performing p
 **What I did:**
 - Designed a Star Schema data model in Power Pivot connecting a fact table to a custom Calendar dimension table for time         intelligence analysis
 - Built 14 custom DAX measures including Year-on-Year KPIs for revenue, demand, and top product and warehouse performance
-- Created an interactive Excel dashboard with 6 KPI cards, monthly revenue trend charts, warehouse and category performance      visuals, and year/category slicers to communicate findings clearly to stakeholders
+- Created an interactive Excel dashboard with 6 KPI cards, monthly revenue trend charts, warehouse and category performance visuals, and year/category slicers to communicate findings clearly to stakeholders
 - Provided actionable recommendations for leadership
 
 ➡️ [View Project](https://github.com/ozioma-o/b2b-product-demand-analysis)
@@ -46,10 +46,10 @@ An analysis of B2B product demand patterns to identify trends, high-performing p
 An analysis of inventory performance in a manufacturing and retail company
 
 **What I did:**
--Wrote 14 SQL queries with clear comments explaining logic and assumptions
--Identified the root causes of the business' problem
--Identified products and categories that require immediate attention
--Provided actionable recommendation for leadership
+- Wrote 14 SQL queries with clear comments explaining logic and assumptions
+- Identified the root causes of the business' problem
+- Identified products and categories that require immediate attention
+- Provided actionable recommendation for leadership
 
 ➡️ [View Project](https://github.com/ozioma-o/inventory-management-analysis)
 
@@ -60,7 +60,7 @@ An analysis of inventory performance in a manufacturing and retail company
 A comprehensive end-to-end analysis of a hospital dataset covering patient behavior, financial performance, and clinical operations.
 
 **What I did:**
-- Wrote 10+ complex SQL queries including self joins for 30-day readmission analysis, date functions for quarterly trends, and multi-table joins for financial reporting
+- Wrote 10+ complex SQL queries including self joins for 30-day readmission analysis, date functions for quarterly trends, and multi-table joins for financial analysis
 - Created DAX measures for Readmission Rate, Encounter Class Distribution, and Average Claim Cost
 - Built an interactive Power BI dashboard with 6 KPI cards and 7 dynamic visuals
 - Provided actionable recommendations for leadership
