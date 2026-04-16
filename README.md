@@ -26,7 +26,7 @@ I'm a pharmacy graduate who developed an interest in data analytics and have spe
 ## 📂 Featured Projects
 
 
-### 📦 1. B2B Product Demand Analytics
+### 📦 1. B2B Product Demand Analysis
 **Tools:** [ Microsoft Excel · Power Pivot · DAX · Power Query]
 
 An analysis of B2B product demand patterns to identify trends, high-performing products, and demand insights.
@@ -40,7 +40,7 @@ An analysis of B2B product demand patterns to identify trends, high-performing p
 ➡️ [View Project](https://github.com/ozioma-o/b2b-product-demand-analysis)
 
 ---
-### 📦 2. Inventory Management Analytics
+### 📦 2. Inventory Management Analysis
 **Tools:** [ SQL Server]
 
 An analysis of inventory performance in a manufacturing and retail company
@@ -54,7 +54,7 @@ An analysis of inventory performance in a manufacturing and retail company
 ➡️ [View Project](https://github.com/ozioma-o/inventory-management-analysis)
 
 ---
-### 🏥 3. Hospital Performance Analytics 
+### 🏥 3. Hospital Performance Analysis 
 **Tools:** SQL Server · Power BI · DAX · Power Query
 
 A comprehensive end-to-end analysis of a hospital dataset covering patient behavior, financial performance, and clinical operations.
