@@ -2,7 +2,7 @@
 
 <# Hi there, I'm [Ozioma Frances Okoyenta] 👋
 
-### Aspiring Data Analyst | SQL • Power BI • Excel | 
+### Data Analyst | SQL • Power BI • Excel | 
 
 I'm a pharmacy graduate who developed an interest in data analytics and have spent the last few months building practical skills through hands-on projects. I enjoy working with data to uncover patterns and tell stories that support better decision making.
 
