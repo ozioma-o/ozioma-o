@@ -40,21 +40,7 @@ An analysis of B2B product demand patterns to identify trends, high-performing p
 ➡️ [View Project](https://github.com/ozioma-o/b2b-product-demand-analysis)
 
 ---
-### 🏥 2. Hospital Performance Analytics 
-**Tools:** SQL Server · Power BI · DAX · Power Query
-
-A comprehensive end-to-end analysis of a hospital dataset covering patient behavior, financial performance, and clinical operations.
-
-**What I did:**
-- Wrote 10+ complex SQL queries including self joins for 30-day readmission analysis, date functions for quarterly trends, and multi-table joins for financial reporting
-- Created DAX measures for Readmission Rate, Encounter Class Distribution, and Average Claim Cost
-- Built an interactive Power BI dashboard with 6 KPI cards and 7 dynamic visuals
-- Provided actionable recommendations for leadership
-    
-➡️ [View Project](https://github.com/ozioma-o/hospital-perfromance-analysis)
-
----
-### 📦 3. Inventory Management Analytics
+### 📦 2. Inventory Management Analytics
 **Tools:** [ SQL Server]
 
 An analysis of inventory performance in a manufacturing and retail company
@@ -66,6 +52,20 @@ An analysis of inventory performance in a manufacturing and retail company
 -Provided actionable recommendation for leadership
 
 ➡️ [View Project](https://github.com/ozioma-o/inventory-management-analysis)
+
+---
+### 🏥 3. Hospital Performance Analytics 
+**Tools:** SQL Server · Power BI · DAX · Power Query
+
+A comprehensive end-to-end analysis of a hospital dataset covering patient behavior, financial performance, and clinical operations.
+
+**What I did:**
+- Wrote 10+ complex SQL queries including self joins for 30-day readmission analysis, date functions for quarterly trends, and multi-table joins for financial reporting
+- Created DAX measures for Readmission Rate, Encounter Class Distribution, and Average Claim Cost
+- Built an interactive Power BI dashboard with 6 KPI cards and 7 dynamic visuals
+- Provided actionable recommendations for leadership
+    
+➡️ [View Project](https://github.com/ozioma-o/hospital-perfromance-analysis)
 
 
 ## 🚀 What's Next
